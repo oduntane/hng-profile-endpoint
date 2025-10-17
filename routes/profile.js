@@ -15,8 +15,8 @@ router.get('/', async function(req, res) {
             "email": email,
             "name": "Emmanuel Oduntan",
             "stack": "Node.js/Express",
-            "timestamp": new Date(),
-        }
+        },
+        "timestamp": new Date(),
     }
 
 
